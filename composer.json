@@ -1,0 +1,20 @@
+{
+    "name": "wjzijderveld/jackalope-doctrine-dbal-length-migration",
+    "description": "Sets a phpcr:length attribute on all sv:value elements",
+    "require": {
+        "jackalope/jackalope-doctrine-dbal": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Willem-Jan Zijderveld",
+            "email": "wjzijderveld@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
